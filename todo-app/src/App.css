@@ -1,0 +1,45 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.taskList {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: left;
+}
+
+.taskItem {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  width: 63vw;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 20px;
+}
+
+.completed {
+  /* text-decoration: line-through; */
+  color: blue;
+}
+
+.logo {
+  width: 150px;
+  margin-bottom: 10px;
+}
+.input-tex {
+  height: 25vh;
+  font-size: 18px;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  width: 64vw;
+  margin-bottom: 40px;
+  
+}
+.delete-button{
+  height: 40px;
+}

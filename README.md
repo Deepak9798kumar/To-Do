@@ -1,8 +1,8 @@
-# TaskList App
+# To-Do App
 
 TaskList is a simple React application that allows you to manage tasks with basic CRUD operations (Create, Read, Update, Delete) and download selected tasks as a PDF.
 
-![TaskList App Screenshot](./src/Image/Screenshot.png)
+![TaskList App Screenshot](./todo-app/src/Image/Screenshot.png)
 
 ## Features
 
@@ -34,11 +34,6 @@ Before running the application, ensure you have the following installed:
    cd TaskList
    npm install
    npm start
-
-
-
-
-
 
 
 ### Todo List API

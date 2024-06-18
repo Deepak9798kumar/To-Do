@@ -1,0 +1,43 @@
+.taskList {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: left;
+  }
+  
+  .taskItem {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+
+  
+  .logo {
+    width: 150px;
+  }
+  
+  input[type="text"] {
+    /* width: 70%; */
+    padding: 10px;
+    margin-right: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    float: right;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  input[type="checkbox"] {
+    margin-right: 10px;
+  }
+  
